@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073018344507",
+    "project_id": "login-n-register-b6790",
+    "storage_bucket": "login-n-register-b6790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073018344507:android:8417d74bcad9833bb9781e",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLsdCfMD1OxifCClisyr5rVfBBVxcaoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073018344507:android:89e69357677062f3b9781e",
+        "android_client_info": {
+          "package_name": "com.logres.cpsss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLsdCfMD1OxifCClisyr5rVfBBVxcaoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
